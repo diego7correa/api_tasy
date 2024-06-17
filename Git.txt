@@ -1,0 +1,17 @@
+instalar git
+
+configurando usuario
+git config --global user.name "diego7correa"
+git config --global user.name "Julio Diego"
+
+git config --global user.email "diego7correa@hotmail.com"
+
+git config --list
+
+iniciar o git em uma pasta
+git init
+
+link repositorio api
+git clone https://github.com/diego7correa/api_tasy.git
+
+
